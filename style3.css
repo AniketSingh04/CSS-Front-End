@@ -1,0 +1,9 @@
+#heading{color: gold;}      /*id selector of h1 tag*/
+#firstpara{color: red;}   /*id selector of p tag*/
+#image{                   /*id selector of img tag*/
+  background-color: red;
+  border-style: groove;
+  border-radius: 100%;
+  }
+
+/*external css file for id selctor file*/
