@@ -1,0 +1,8 @@
+.heading{color: red;}      /*class selector of h1 tag*/
+.firstpara{color: blue;}   /*class selector of p tag*/
+img{
+  background-color: red;
+  border-style: groove;
+  border-radius: 100%;
+  }
+/*external css file for the class selector file*/
